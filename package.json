@@ -1,0 +1,23 @@
+{
+  "name": "wk10testing",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "unitTest": "mocha ./unitTest/test.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bonnie143-kir/wk10.git"
+  },
+  "author": "bongii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bonnie143-kir/wk10/issues"
+  },
+  "homepage": "https://github.com/bonnie143-kir/wk10#readme",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
